@@ -1,22 +1,19 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/baptist/language-masters/en:/",
+    "/content/baptist/language-masters/en/:/en/",
+    "/content/baptist/language-masters/fr/:/fr/",
+    "/content/baptist/language-masters/fr:/fr",
+    "/content/baptist/language-masters/es/:/es/",
+    "/content/baptist/language-masters/es:/es",
+    "/content/baptist/language-masters/ja/:/ja/",
+    "/content/baptist/language-masters/ja:/ja",
+    "/content/baptist/language-masters/de/:/de/",
+    "/content/baptist/language-masters/de:/de",
+    "/content/baptist/configuration:/.helix/config.json",
+    "/content/baptist/metadata:/metadata.json",
+    "/content/baptist/redirects:/redirects.json",
+    "/content/baptist/placeholders:/placeholders.json"
   ],
-  "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
-  ]
+  "includes": ["/content/baptist/", "/content/dam/baptist/"]
 }
